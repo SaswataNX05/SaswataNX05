@@ -15,7 +15,7 @@
   <a href="https://github.com/SaswataNX05">
     <img src="https://img.shields.io/badge/GitHub-SaswataNX05-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://linkedin.com">
+  <a href="https://www.linkedin.com/in/saswata-biswas-8b7b4b3a6/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
@@ -97,7 +97,7 @@ developer:
   <a href="https://github.com/SaswataNX05">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://linkedin.com">
+  <a href="https://www.linkedin.com/in/saswata-biswas-8b7b4b3a6/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
