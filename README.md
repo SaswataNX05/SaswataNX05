@@ -69,16 +69,6 @@ developer:
 
 ---
 
-### 🏆 GitHub Trophies
-
-<div align="center">
-  <a href="https://github.com/SaswataNX05">
-    <img src="https://github-profile-trophy.vercel.app/?username=SaswataNX05&theme=flat&no-frame=true&row=1&column=7&margin_w=15" alt="GitHub Trophies" />
-  </a>
-</div>
-
----
-
 ### 📊 GitHub Activity & Metrics
 
 <div align="center">
